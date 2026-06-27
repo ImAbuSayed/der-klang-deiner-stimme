@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-klang-deiner-stimme/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Der Klang deiner Stimme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-klang-deiner-stimme/) |
+| **Get License** | [Secure Licensing Rights for Der Klang deiner Stimme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-klang-deiner-stimme/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die ganze Stadt ist laut, doch ich hör' nur den Klang deiner Stimme
+> Tauch' tief in deine Augen, es fühlt sich an, als ob ich schwimme
+> Lass die Scheiben unten, Late-Night-Drive, wir sind on the run
+> Das hier ist kein Game, Babe, ich hab' grad erst angefang'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 27, 2026 |
+| **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
