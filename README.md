@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-klang-deiner-stimme/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Der Klang deiner Stimme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-klang-deiner-stimme/) |
+| **Get License** | [Request Licensing for Der Klang deiner Stimme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-klang-deiner-stimme/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c301e6e5588ef93ff4d1b3a3e0cd7a2f146c0b6783a4478c68a770855e2218b0` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
